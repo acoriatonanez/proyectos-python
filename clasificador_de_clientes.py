@@ -21,7 +21,7 @@ for nombre, compras in clientes.items():
         regular.append(nombre)
     else:
         bajo.append(nombre)
-print (f"Clientes Premium: {premium}")
-print (f"Clientes Regulares: {regular}")
-print (f"Clientes de Al Paso: {bajo}")
+print (f"Clientes Premium: {', '.join(premium) if premium else 'Ninguno'}")
+print (f"Clientes Regulares: {', '.join(regular) if regular else 'Ninguno'}")
+print (f"Clientes de Al Paso: {', '.join(bajo) if bajo else 'Ninguno'}")
 print (f"hay {len(premium)} clientes premium, {len(regular)} clientes regulares y {len(bajo)} clientes de al paso")
