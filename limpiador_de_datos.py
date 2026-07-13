@@ -1,7 +1,7 @@
 nulo = []
 valido = []
 sin_arroba = []
-email = ["juan@mail.com","pedro@mail.com","mario@mail.com"," pedro@mail.com","","maria@mail.com","antonio@mail.com ","  rita@mail.com","", "","pipimazzantiemail.com", "elcholosimeone.com","","lalosbar.com ", "todoporelasado@mail.com"]
+email = ["juan@mail.com","pedro@mail.com","mario@mail.com"," pedro@mail.com","","maria@mail.com","antonio@mail.com ","  rita@mail.com","", "","mazzantiemail.com", "simeone.com","","lalosbar.com ", "asado@mail.com"]
 for correo in email:
     correo = correo.strip()
     if correo == "":
@@ -15,4 +15,5 @@ print("Nulos:", nulo)
 print("Sin arroba:", sin_arroba)
 print("Válidos:", valido_deduplicado)
 print("Total lista:", len(email))
-print("Total clasificado:", len(nulo) + len(sin_arroba) + len(valido_deduplicado))
+print("Total clasificado:", len(nulo) + len(sin_arroba) + len(valido))
+print (f"La diferencia de duplicados es: {len(valido) - len(valido_deduplicado)})")
