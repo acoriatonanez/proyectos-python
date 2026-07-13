@@ -48,10 +48,18 @@ ventas = [
         "precio_unitario": 15900.00
     }
 ]
+#Si solo queremos el informe del período comprendido entre 2026-07-03 y 2026-07-16
+ventas_periodo = []
+ventas_fuera_periodo = []
+for venta in ventas:
+    if '2026-07-03' <= venta['fecha'] < '2026-07-16':
+        ventas_periodo.append(venta)
+    else:
+        ventas_fuera_periodo.append(venta)
 total_ventas = {}
 total_cantidad = {}
 total_importe = 0
-for venta in ventas:
+for venta in ventas_periodo:
     importe = venta['precio_unitario'] * venta['cantidad']
     if venta['producto'] in total_ventas:
         total_ventas[venta['producto']] = total_ventas[venta['producto']] + importe
@@ -63,10 +71,10 @@ for venta in ventas:
         total_cantidad[venta['producto']] = venta['cantidad']
     total_importe = total_importe + importe
 producto_mas_vendido = max(total_cantidad, key=total_cantidad.get)
-print(f""" ------------REPORTE------------
+print(f""" --------------REPORTE--------------
 el producto más vendido es:
-{producto_mas_vendido} con un total de {total_cantidad[producto_mas_vendido]}
-unidades vendidas y los ingresos totales fueron de {total_importe}""")
+{producto_mas_vendido} con un total de {total_cantidad[producto_mas_vendido]} unidades vendidas.
+Los ingresos totales fueron de ${total_importe:.2f}""")
 for producto, cantidad in total_cantidad.items():
     print(f"""Se vendió un total de {cantidad} unidades del producto
-    {producto}, y el importe total de sus ventas es ${total_ventas[producto]:.2f}""")
+    {producto} por un total de ${total_ventas[producto]:.2f}""")
