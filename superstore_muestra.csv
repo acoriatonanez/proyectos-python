@@ -1,0 +1,41 @@
+Order ID,Order Date,Category,Sub-Category,Product Name,Region,Sales,Quantity
+US-2024-1001,2024-01-05,Furniture,Chairs,Silla ejecutiva Confort Plus,East,450.50,2
+US-2024-1002,2024-01-07,Office Supplies,Binders,Carpeta A4 anillada,West,12.30,5
+US-2024-1003,2024-01-09,Technology,Phones,Telefono IP Zenex X200,Central,899.99,1
+US-2024-1004,2024-01-12,Furniture,Tables,Mesa de reuniones roble,South,610.00,1
+US-2024-1005,2024-01-15,Office Supplies,Paper,Resma papel A4 75g,East,8.75,10
+US-2024-1006,2024-01-18,Technology,Accessories,Mouse inalambrico Logik,West,25.99,3
+US-2024-1007,2024-01-20,Furniture,Chairs,Silla gamer RGB,Central,320.00,2
+US-2024-1008,2024-01-22,Office Supplies,Storage,Caja archivo carton,South,15.40,8
+US-2024-1009,2024-01-25,Technology,Phones,Telefono IP Zenex X100,East,540.00,2
+US-2024-1010,2024-01-28,Furniture,Bookcases,Biblioteca 5 estantes,West,275.20,1
+US-2024-1011,2024-02-01,Office Supplies,Binders,Carpeta oficio anillada,Central,10.10,6
+US-2024-1012,2024-02-03,Technology,Accessories,Teclado mecanico Vortex,South,89.99,2
+US-2024-1013,2024-02-06,Furniture,Tables,Escritorio en L,East,410.00,1
+US-2024-1014,2024-02-09,Office Supplies,Paper,Resma papel Oficio,West,9.20,12
+US-2024-1015,2024-02-11,Technology,Machines,Impresora laser Nova M10,Central,320.50,1
+US-2024-1016,2024-02-14,Furniture,Chairs,Silla plegable basica,South,60.00,4
+US-2024-1017,2024-02-17,Office Supplies,Storage,Cajonera 3 niveles,East,45.30,3
+US-2024-1018,2024-02-20,Technology,Phones,Telefono IP Zenex X200,West,899.99,1
+US-2024-1019,2024-02-23,Furniture,Bookcases,Biblioteca 3 estantes,Central,180.00,2
+US-2024-1020,2024-02-26,Office Supplies,Binders,Carpeta con solapa,South,6.50,15
+US-2024-1021,2024-03-01,Technology,Accessories,Auriculares Bluetooth SoundX,East,55.75,4
+US-2024-1022,2024-03-04,Furniture,Tables,Mesa auxiliar vidrio,West,120.00,1
+US-2024-1023,2024-03-07,Office Supplies,Paper,Resma papel color,Central,11.90,7
+US-2024-1024,2024-03-10,Technology,Machines,Impresora multifuncion HP-like,South,410.00,1
+US-2024-1025,2024-03-13,Furniture,Chairs,Silla ejecutiva Confort Plus,East,450.50,1
+US-2024-1026,2024-03-16,Office Supplies,Storage,Caja archivo carton,West,15.40,10
+US-2024-1027,2024-03-19,Technology,Phones,Telefono IP Zenex X100,Central,540.00,3
+US-2024-1028,2024-03-22,Furniture,Bookcases,Biblioteca 5 estantes,South,275.20,1
+US-2024-1029,2024-03-25,Office Supplies,Binders,Carpeta A4 anillada,East,12.30,4
+US-2024-1030,2024-03-28,Technology,Accessories,Mouse inalambrico Logik,West,25.99,6
+US-2024-1031,2024-04-01,Furniture,Chairs,Silla gamer RGB,Central,320.00,1
+US-2024-1032,2024-04-04,Office Supplies,Paper,Resma papel A4 75g,South,8.75,20
+US-2024-1033,2024-04-07,Technology,Phones,Telefono IP Zenex X200,East,899.99,2
+US-2024-1034,2024-04-10,Furniture,Tables,Escritorio en L,West,410.00,1
+US-2024-1035,2024-04-13,Office Supplies,Storage,Cajonera 3 niveles,Central,45.30,2
+US-2024-1036,2024-04-16,Technology,Machines,Impresora laser Nova M10,South,320.50,1
+US-2024-1037,2024-04-19,Furniture,Chairs,Silla plegable basica,East,60.00,8
+US-2024-1038,2024-04-22,Office Supplies,Binders,Carpeta oficio anillada,West,10.10,5
+US-2024-1039,2024-04-25,Technology,Accessories,Teclado mecanico Vortex,Central,89.99,3
+US-2024-1040,2024-04-28,Furniture,Bookcases,Biblioteca 3 estantes,South,180.00,1
