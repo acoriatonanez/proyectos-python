@@ -26,5 +26,4 @@ def generador_lista_csv(diccionario,ruta_destino):
     with open(ruta_destino, "w", encoding="utf-8", newline="") as archivo_salida:
         escritor = csv.writer(archivo_salida)
         escritor.writerows(lista_filas)
-generador_lista_csv(ganancia_por_region,"/home/acoriatonanez/dev/proyectos-python/ganancia_por_region.csv")
-#/home/acoriatonanez/dev/proyectos-python/ganancia_por_region.csv
+generador_lista_csv(ganancia_por_region,"/ganancia_por_region.csv")
