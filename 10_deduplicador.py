@@ -6,12 +6,12 @@ def combinador(lista_de_rutas):
             for fila in csv.DictReader(archivo):
                 consolidado.append(fila)
     return consolidado
-def limpiador(lista_a_deduplicar, columna):
+def limpiador(lista_a_deduplicar,criterio):
     deduplicado = []
     repetidos = []
     vistos = set()
     for fila in lista_a_deduplicar:
-        clave = fila[columna]
+        clave = tuple(fila[contenido] for contenido in criterio)
         if clave not in vistos:
             vistos.add(clave)
             deduplicado.append(fila)
@@ -26,7 +26,8 @@ def escritor_csv(diccionarios,ruta_csv):
         escritor.writerows(diccionarios)
 rutas = ['10_pedidos_2017.csv','10_pedidos_2018.csv']
 consolidado = combinador(rutas)
-consolidado_deduplicado,repetidas = limpiador(consolidado,'Id_Pedido')
+criterio = ['Id_Pedido','Producto']
+consolidado_deduplicado,repetidas = limpiador(consolidado,criterio)
 escritor_csv(consolidado_deduplicado, "10_consolidado.csv")
 print(len(consolidado))
 print(len(consolidado_deduplicado))
