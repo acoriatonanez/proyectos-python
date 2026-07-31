@@ -1,0 +1,61 @@
+Id_Pedido,Fecha_Pedido,Cliente,Region,Categoria,Producto,Venta,Cantidad,Ganancia
+MX-2017-133242,2017-11-27,Luciano Bernal,Centro,Material de oficina,"Accos Grapas, Tamaños variados",168.00000000000003,3,72
+MX-2017-105333,2017-10-26,Rafel Nieves,Norte,Material de oficina,"Tenex Carpetas, Metal",445.79999999999995,3,156
+MX-2017-145569,2017-11-05,Araceli Echevarría,Sur,Mobiliario,"Ikea Estante de esquina, Negro",995.2800000000001,2,132.4799999999999
+US-2017-112361,2017-04-04,Alejandro Trejo,Sur,Material de oficina,"Wilson Jones Perforador, Duradero",235.92000000000002,3,-100.68
+MX-2017-102764,2017-06-26,Ania Gámez,Caribe,Material de oficina,"Harbour Creations Etiquetas para documentos legales, Rojo",215.39999999999998,3,105
+MX-2017-167276,2017-06-12,Anacleto Santana,Caribe,Tecnología,"Canon Tinta, Color",988.6188,1,443.6188000000001
+US-2017-137386,2017-10-19,Rafaela Carvajal,Sur,Material de oficina,"Advantus Grapas, Al por mayor",86.88000000000001,2,-43.52000000000001
+MX-2017-153479,2017-03-21,Raquel Barreto,Norte,Material de oficina,"Kleencut Cúter, Industrial",725.3999999999997,3,195.60000000000002
+US-2017-150574,2017-06-25,Teodora Atencio,Sur,Material de oficina,"Cuisinart Microondas, Negro",4446.24,6,-4668.959999999999
+MX-2017-107097,2017-09-07,Thalía Torres,Sur,Material de oficina,"Kleencut Cizallas, Industrial",322.6,1,103.2
+MX-2017-100531,2017-10-19,Gladis Juárez,Caribe,Tecnología,"Nokia Teléfono inteligente, Al por mayor",2629.12,4,-98.88
+US-2017-103422,2017-09-20,Estela Alonso,Sur,Material de oficina,"Binney & Smith Bolígrafos, Tamaños variados",201.6,5,-106.39999999999998
+MX-2017-106922,2017-05-15,Jonás Toro,Norte,Material de oficina,"Jiffy Sobre de tipo Manila, 50",346.8,2,142
+MX-2017-142678,2017-06-06,Pastora Toro,Centro,Material de oficina,"Rogers Estanterías, Industrial",1252.1999999999998,3,337.79999999999995
+MX-2017-107041,2017-10-31,Cornelio Vázquez,Caribe,Mobiliario,"Chromcraft Mesa de madera, Montada",9679.800000000001,3,1064.3999999999999
+US-2017-107461,2017-07-10,Florinda Negrón,Caribe,Material de oficina,"Cardinal Encuadernadora, Transparente",2100.4800000000005,8,209.27999999999986
+MX-2017-117254,2017-08-29,Telmo Díaz,Centro,Tecnología,"SanDisk Memoria USB, Blanco",1245,5,373
+US-2017-133081,2017-05-25,Maricruz Matos,Sur,Mobiliario,"Advantus Marco de foto, Negro",1483.4399999999998,7,-74.7600000000001
+MX-2017-106726,2017-11-01,Cruz Muñoz,Sur,Material de oficina,"Harbour Creations Etiquetas para documentos legales, Rojo",430.79999999999995,6,210
+MX-2017-157448,2017-12-30,Celia Salgado,Norte,Material de oficina,"Eldon Bandejas, Metal",627.2,2,125.19999999999999
+US-2017-113964,2017-01-24,Hugo Maldonado,Sur,Material de oficina,"Kraft Sobre de tipo Manila, Rojo",120.11999999999999,1,15.920000000000002
+MX-2017-168739,2017-03-05,Elba Durán,Centro,Material de oficina,"Ames Cierre adhesivo, Plateado",281.2,2,53.20000000000001
+MX-2017-117408,2017-09-20,Vanesa Sarabia,Centro,Material de oficina,"Tenex Casilleros, Industrial",1637.0399999999997,2,81.84000000000015
+MX-2017-156412,2017-06-05,Marisa Cantudo,Centro,Material de oficina,"Tenex Carpetas, Metal",891.5999999999999,6,312
+MX-2017-157875,2017-10-09,Aarón Navarrete,Sur,Material de oficina,"Ibico Anillas, Económico",93.2,2,0
+MX-2017-159401,2017-07-10,Ciro Becerra,Norte,Material de oficina,"Cameo Sobre empresarial, Rojo",683,5,314
+MX-2017-141761,2017-03-22,Joaquina Meraz,Sur,Tecnología,"Brother Tinta, Digital",2932.9224,3,199.32240000000002
+MX-2017-102806,2017-08-01,Maira Trejo,Norte,Material de oficina,"Stockwell Pasadores, Paquete de 12",460.00000000000006,5,147
+MX-2017-116624,2017-11-09,Adela Blanco,Norte,Material de oficina,"GlobeWeis Sobres de uso interno, Rojo",342.4,1,27.200000000000003
+MX-2017-106922,2017-05-15,Jonás Toro,Norte,Mobiliario,"Novimex Taburete, Rojo",2631.3600000000006,3,525.96
+MX-2017-160815,2017-12-11,Raúl Mesa,Centro,Material de oficina,"Cardinal Separadores, Duradero",350.4,6,111.60000000000001
+MX-2017-143133,2017-10-01,Clementino Leiva,Centro,Material de oficina,"Smead Etiquetas para documentos legales, Rojo",393.12,9,65.51999999999998
+MX-2017-169320,2017-05-01,Olvido Godoy,Centro,Material de oficina,"Cardinal Perforador, Reciclado",972,5,0
+MX-2017-119501,2017-03-17,Clotilde Carrillo,Norte,Mobiliario,"Hon Silla plegable, Negro",1263.8400000000001,3,62.63999999999993
+MX-2017-101959,2017-11-02,Patricia Agosto,Caribe,Material de oficina,"Novimex Etiquetas de envío, Ajustable",59.2,1,0.4
+MX-2017-164021,2017-07-24,Antonio Rocha,Sur,Mobiliario,"Deflect-O Bombilla, Negro",759.5999999999999,6,379.20000000000005
+MX-2017-141768,2017-04-06,Herminia Páez,Sur,Material de oficina,"Green Bar Papel de tipo pergamino, Reciclado",331.79999999999995,3,96
+US-2017-161382,2017-12-28,Natasha Arévalo,Centro,Material de oficina,"Jiffy Sobre empresarial, 50",191.52000000000004,3,-13.080000000000027
+MX-2017-111010,2017-08-30,Ángel Prieto,Sur,Material de oficina,"Acme Cizallas, Azul",3660.8,11,217.8
+MX-2017-138835,2017-12-31,Álvaro Muñoz,Sur,Material de oficina,"Eaton Agenda, Multicolor",293.2,2,105.19999999999999
+MX-2017-109197,2017-06-26,Esperanza Mesa,Centro,Material de oficina,"Binney & Smith Subrayadores, Al por mayor",224.79999999999993,2,60.4
+MX-2017-166618,2017-12-13,Araceli Echevarría,Sur,Material de oficina,"Accos Clips, Al por mayor",187.19999999999996,2,12.8
+MX-2017-159100,2017-09-13,Pío Olivares,Norte,Material de oficina,"Wilson Jones Encuadernadora, Reciclado",1315.2,4,92
+MX-2017-159758,2017-03-01,Cintia Álvarez,Norte,Material de oficina,"Eldon Bandejas, Metal",627.2,2,125.19999999999999
+US-2017-134803,2017-08-30,Silvia Pérez,Caribe,Mobiliario,"Harbour Creations Mecedora, Rojo",1765.0799999999997,3,-970.9200000000001
+MX-2017-115203,2017-11-02,Leonardo Olmos,Norte,Material de oficina,"Fiskars Recortadora, Industrial",878.4000000000001,3,342
+MX-2017-138373,2017-12-12,Nicole Argüello,Caribe,Mobiliario,"Harbour Creations Sillón, Negro",9423.599999999999,3,2920.8
+MX-2017-135006,2017-04-30,Romero Arévalo,Sur,Material de oficina,"Green Bar Recordadores, Reciclado",112.4,1,32.4
+MX-2017-116155,2017-11-27,Alexis Ponce,Sur,Material de oficina,"Kleencut Abrecartas, Industrial",764.8,4,198.4
+MX-2017-158106,2017-04-17,Aída Vélez,Sur,Tecnología,"Cisco Teléfono de oficina, Al por mayor",4296,8,1760
+MX-2017-131842,2017-03-20,Lucía Villa,Centro,Material de oficina,"Smead Archivador móvil, Tamaño completo",4281,5,1969
+MX-2017-166590,2017-06-25,Miguelina Agosto,Sur,Tecnología,"Panasonic Impresora de recibos, Duradero",1613.6,2,128.8
+US-2017-137589,2017-10-17,Ania Gámez,Sur,Mobiliario,"Dania Librería clásica, Negro",2197.92,2,-1264.0800000000002
+US-2017-139297,2017-12-05,Bibiana Ferro,Sur,Material de oficina,"Stockwell Pasadores, Tamaños variados",157.60000000000002,5,-185.40000000000003
+US-2017-159660,2017-04-19,Marina Marrero,Centro,Mobiliario,"Rubvermaid Bandeja apiladora, Duradero",266.04,3,-71.16000000000003
+MX-2017-117296,2017-10-22,Baltasar Luján,Centro,Material de oficina,"Eldon Caja, Metal",186.59999999999994,3,72.6
+MX-2017-117366,2017-12-26,Benito Marcos,Norte,Material de oficina,"Stiletto Cúter, Acero",471.6,2,221.6
+MX-2017-153920,2017-02-08,Aníbal Barragán,Norte,Material de oficina,"OIC Grapadoras, Paquete de 12",256,2,40.8
+MX-2017-117492,2017-04-20,Aniceto Puertas,Norte,Tecnología,"Nokia Teléfono inteligente, Azul",2463,3,393.59999999999997
+MX-2017-166296,2017-05-29,Kristina Arroyo,Norte,Material de oficina,"Wilson Jones Perforador, Duradero",393.2,2,168.8
